@@ -1,18 +1,11 @@
 ### Hi there, I'm Nikita 👋
 
-
-
-
-
-
-
+Прошёл курс Яндекс.Практикум "Аналитик данных". С каждым днем стремлюсь обновлять свои знания,навыки и развиваться в этой сфере.
 
 
 ### Связаться со мной:
 <a href="https://t.me/nvzacharov">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt=Telegram /> 
-      
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlaisfil8@gmail.com)      
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt=Telegram />      
 
 
 <!--
